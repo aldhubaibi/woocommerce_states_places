@@ -15,10 +15,10 @@
 global $states;
 
 
-$states['XX'] = array(
+$states['YE'] = array(
  
   'YE-01' => _x('Amanat Al Asimah','Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
-  'YE-02' => _x('Sana'a', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
+  'YE-02' => _x('Sana\'a', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-03' => _x('Aden', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-04' => _x('Taiz', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-05' => _x('Ibb', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -29,9 +29,9 @@ $states['XX'] = array(
   'YE-10' => _x('Al Jawf', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-11' => _x('Al Mahwit', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-12' => _x('Hajjah', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
-  'YE-13' => _x('Ma'rib', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
+  'YE-13' => _x('Ma\'rib', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-14' => _x('Raymah', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
-  'YE-15' => _x('Sa'dah', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
+  'YE-15' => _x('Sa\'dah', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-16' => _x('Abyan', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-17' => _x('Al Mahrah', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
   'YE-18' => _x('Al Dhale', 'Governorate of Yemen', 'states-cities-and-places-for-woocommerce'),
