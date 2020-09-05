@@ -3,10 +3,10 @@
 /**
  * $country places/cities/municipalities/districts
  * - $count places/cities/municipalities/districts
- * 
- * Source: 
+ *
+ * Source:
  * - [https://en.wikipedia.org/wiki/Governorates_of_Yemen]
- * 
+ *
  * @author  Abdullah Aldhubaibi <abdullah.aldhubaibi@gmail.com.com> | https://yourwebsite.com
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,18 +15,18 @@
 global $places;
 
 $places['YE'] = array(
-  // Amanat Al Asimah  
+  // Amanat Al Asimah
   'YE-01' => array(
-    _x('Sana'a Old City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Sana\'a Old City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Wahdah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Sabain','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Assafi'yah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Assafi\'yah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('At Tahrir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ath'thaorah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Az'zal','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ath\'thaorah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Az\'zal','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bani Al Harith','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ma'ain','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Shu'aub','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ma\'ain','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Shu\'aub','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
   ),
 
@@ -39,7 +39,7 @@ $places['YE'] = array(
     _x('Al Haymah Ad Dakhiliyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Haymah Al Kharijiyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Manakhah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Sa'fan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Sa\'fan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bani Hushaysh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sanhan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bilad Ar Rus','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -49,7 +49,7 @@ $places['YE'] = array(
      _x('Khwlan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bani Dhabyan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
   ),
-  
+
   // Aden
   'YE-03' => array(
     _x('Al Buraiqeh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -60,37 +60,37 @@ $places['YE'] = array(
     _x('Craiter','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Dar Sad','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Khormaksar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
- 
+
   ),
 
    // Taiz
   'YE-04' => array(
     _x('Al Mukha','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Al Ma'afer','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Al Ma\'afer','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mawasit','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Misrakh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mudhaffar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Qahirah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Al Wazi'iyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Al Wazi\'iyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Silw','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ash Shamayatayn','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('At Ta'iziyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('At Ta\'iziyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Dhubab ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Dimnat Khadir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hayfan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Jabal Habashy','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Maqbanah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Mashra'a Wa Hadnan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Mashra\'a Wa Hadnan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Mawiyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Mawza','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sabir Al Mawadim','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Salh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sama','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Shara'b Ar Rawnah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Shara'b As Salam','District of Yemen', 'states-cities-and-places-for-woocommerce'),
- 
+    _x('Shara\'b Ar Rawnah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Shara\'b As Salam','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+
   ),
-  
+
   // Ibb
   'YE-05' => array(
     _x('Ibb City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -107,13 +107,13 @@ $places['YE'] = array(
     _x('As Sabrah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Saddah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Sayyani','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ash Sha'ir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ba'dan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ash Sha\'ir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ba\'dan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Dhi As Sufal','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Far Al Udayn','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hazm Al Udayn','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hubaysh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
- 
+
   ),
 
   // Dhamar
@@ -126,11 +126,11 @@ $places['YE'] = array(
     _x('Jabal Ash sharq','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Jahran','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Maghirib Ans','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Mayfa'at Anss','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Mayfa\'at Anss','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Utmah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Wusab Al Ali','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Wusab As Safil','District of Yemen', 'states-cities-and-places-for-woocommerce'),
- 
+
   ),
 
 
@@ -167,19 +167,19 @@ $places['YE'] = array(
     _x('Al Quraishyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ar Ryashyyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Sawadiyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('As Sawma'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('As Sawma\'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ash Sharyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('At Taffah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Az Zahir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Dhi Na'im','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Dhi Na\'im','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Maswarah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Mukayras','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Na'man','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Nati' ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Rada'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Na\'man','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Nati\' ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Rada\'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Radman Al Awad','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sabah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Wald Rabi'','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Wald Rabi\'','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
  ),
 
@@ -194,22 +194,22 @@ $places['YE'] = array(
     _x('Al Hawak','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Khawkhah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mansuriyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Al Marawi'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Al Marawi\'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mighlaf','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mina','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Munirah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Qanawis','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Alluheyah' ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Alluheyah ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Salif ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Sukhnah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('At Tuhayat','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Az Zaydiyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Az Zuhrah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Bajil' ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Bajil ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bayt al-Faqih ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bura','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hays','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Jabal Ra's','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Jabal Ra\'s','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kamaran','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Zabid','District of Yemen', 'states-cities-and-places-for-woocommerce'),
  ),
@@ -226,7 +226,7 @@ $places['YE'] = array(
     _x('Al Maton','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Az Zahir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bart Al Anan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Khabb wa ash Sha'af','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Khabb wa ash Sha\'af','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kharab Al Marashi','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Rajuzah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
@@ -238,7 +238,7 @@ $places['YE'] = array(
     _x('Al Mahwait city','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ar Rujum','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('At Tawilah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Bani Sa'd','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Bani Sa\'d','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hufash','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Milhan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Shibam Kawkaban','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -261,11 +261,11 @@ $places['YE'] = array(
     _x('Aslem ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bakil Al Mir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Bani Al Awam','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Bani Qa'is','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Bani Qa\'is','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Harad','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hayran','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Khayran Al Muharraq','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ku'aydinah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ku\'aydinah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kuhlan Affar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kuhlan Ash Sharaf','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kushar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -275,10 +275,10 @@ $places['YE'] = array(
     _x('Najrah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Qafl Shamer','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Qarah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Sharas','District of Yemen', 'states-cities-and-places-for-woocommerce'), 
+    _x('Sharas','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Wadhrah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Washhah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
- 
+
   ),
 
 
@@ -306,30 +306,30 @@ $places['YE'] = array(
     _x('Al Jabin','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Jafariyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('As Salafiyah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Bilad At Ta'am','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Bilad At Ta\'am','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Kusmah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Mazhar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
-  ), 
+  ),
 
 
   //Sa'adah
   'YE-15' => array(
-    _x('Sa'adah City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Sa\'adah City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Dhaher','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Hashwah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Baqim','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Dammaj','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ghamr','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Haydan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Kitaf wa Al Boqe'e','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Kitaf wa Al Boqe\'e','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Majz','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Monabbih','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Qatabir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Razih','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sahar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Saqayn','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Shada'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Shada\'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
   ),
 
@@ -339,7 +339,7 @@ $places['YE'] = array(
   'YE-16' => array(
     _x('Ahwar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Mahfad','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Al Wade'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Al Wade\'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Jayshan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Khanfir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Lawdar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -359,7 +359,7 @@ $places['YE'] = array(
     _x('Hat','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hawf','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Huswain','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Man'ar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Man\'ar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Qishn','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Sayhut','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Shahan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -370,13 +370,13 @@ $places['YE'] = array(
 
   //Ad Dhale'e
   'YE-18' => array(
-    _x('Ad Dhale'e City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ad Dhale\'e City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Hussein','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Ash Shu'ayb','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Ash Shu\'ayb','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Jahaf','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Azariq','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Juban','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Qa'atabah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Qa\'atabah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Damt','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Husha','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
@@ -386,7 +386,7 @@ $places['YE'] = array(
   //Hadramaut
   'YE-19' => array(
     _x('Ad Dis','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Adh Dhlia'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Adh Dhlia\'ah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Abr','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Mukalla City','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Al Qaf','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -396,10 +396,10 @@ $places['YE'] = array(
     _x('As Sawm','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ash Shihr','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Brom Mayfa','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Daw'an','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Daw\'an','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ghayl Ba Wazir','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Ghayl Bin Yamin','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Hagr As Sai'ar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Hagr As Sai\'ar','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hajr','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hawrah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Huraidhah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
@@ -411,7 +411,7 @@ $places['YE'] = array(
     _x('Tarim','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Thamud','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Yabuth','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Zamakh wa Manwakh','District of Yemen', 'states-cities-and-places-for-woocommerce'),	
+    _x('Zamakh wa Manwakh','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
   ),
 
@@ -440,7 +440,7 @@ $places['YE'] = array(
     _x('Radfan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Tuban','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Tur Al Bahah','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Yafa'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Yafa\'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Yahr','District of Yemen', 'states-cities-and-places-for-woocommerce'),
 
   ),
@@ -459,7 +459,7 @@ $places['YE'] = array(
     _x('Habban','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Hatib ','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Jardan','District of Yemen', 'states-cities-and-places-for-woocommerce'),
-    _x('Mayfa'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
+    _x('Mayfa\'a','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Merkhah Al Ulya','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Merkhah As Sufla','District of Yemen', 'states-cities-and-places-for-woocommerce'),
     _x('Nisab','District of Yemen', 'states-cities-and-places-for-woocommerce'),
